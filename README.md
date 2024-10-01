@@ -1,2 +1,5 @@
-# recettes
-Mes recettes de cuisine
+# Recettes
+
+## Desserts
+
+- [Financiers](pages/financiers.md)
