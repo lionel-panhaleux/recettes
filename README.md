@@ -1,6 +1,6 @@
 ## Entrées
 
-- [Œufs frits, crème champignons](pages/oeufs-frits-champignons.md)
+- [Œuf frit, velouté de champignons](pages/oeuf-frit-champignons.md)
 
 ## Desserts
 

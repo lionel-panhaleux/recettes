@@ -1,6 +1,6 @@
 # Œuf frit, velouté de champignons
 
-![Œuf frit, velouté de champignons](../images/oeufs-frits-champignons.png)
+![Œuf frit, velouté de champignons](../images/oeuf-frit-champignons.png)
 
 ## Ingrédients (4p)
 
