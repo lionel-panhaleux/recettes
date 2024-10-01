@@ -1,4 +1,6 @@
-# Œufs frits, crème champignons
+# Œuf frit, velouté de champignons
+
+![Œuf frit, velouté de champignons](../images/oeufs-frits-champignons.png)
 
 ## Ingrédients (4p)
 
