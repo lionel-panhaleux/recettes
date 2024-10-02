@@ -26,4 +26,4 @@
 
 Ajouter une proportion à moitié d'un mélange de **Paprika**, **Curcuma**, et **Farine de lentilles** (à proportions égales).
 Ajouter un peu d'**Asa Fœtida** et de **Piment** au goût, presser une **gousse d'ail**.
-On peut aussi ajouter de la **Poudre d'amandes** et/ou du** Lait de coco** lors de la préparation.
+On peut aussi ajouter de la **Poudre d'amandes** et/ou du **Lait de coco** lors de la préparation.

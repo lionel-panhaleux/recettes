@@ -6,6 +6,7 @@
 ## Plats
 
 - [Aubergines au Miso](pages/aubergines-miso.md)
+- [Baozi](pages/baozi.md)
 - [Bolognaise](pages/bolognaise.md)
 - [Carbonara](pages/carbonara.md)
 - [Curry Madras](pages/curry-madras.md)

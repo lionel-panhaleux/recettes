@@ -1,9 +1,9 @@
 # Curry vert thaï
 
-- 2 gousses d'Ail
+- 2 gousses d'Aïl
 - 1 grosse Échalote
 - 1 bâton de Citronelle
-- 2 feuilles de Citron kaffir
+- 2 feuilles de Citron Kaffir (Combava)
 - ½cc Poivre blanc
 - Zeste d'un citron vert
 - 2cm Galanga (ou 2cs de galanga en poudre, *remplacer par du gingembre*)
