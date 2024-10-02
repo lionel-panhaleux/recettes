@@ -14,5 +14,7 @@
 3. Saisir la pancetta découpée grossièrement jusqu'à ce qu'elle soit croustillante
 4. Égoutter les pâtes. Hors du feu, ajouter la sauce et la pancetta, mélanger et laisser prendre. Éventuellement chauffer très doucement: la sauce doit épaissir un peu, mais sans se défaire.
 
-**Avec fromage:** Mettre seulement la moitié de crème, mais ajouter du Pecorino (20g) et un peu d'eau de cuisson des pâtes (10 cl)
-**À l'italienne:** Les italiens la préparent avec fromage et peu de crème (diviser encore par deux), du Guanciale (plutôt que de la pancetta), plus gras et plus poivré. Dans ce cas, omettre le poivre (mais garder le tout-épice, ou le remplacer par un peu de muscade).
+---
+
+- **Avec fromage:** Mettre seulement la moitié de crème, mais ajouter du Pecorino (20g) et un peu d'eau de cuisson des pâtes (10 cl)
+- **À l'italienne:** Les italiens la préparent avec fromage et peu de crème (diviser encore par deux), du Guanciale (plutôt que de la pancetta), plus gras et plus poivré. Dans ce cas, omettre le poivre (mais garder le tout-épice, ou le remplacer par un peu de muscade).

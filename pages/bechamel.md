@@ -15,6 +15,6 @@
 
 ---
 
-**Variante au bouillon:** Remplacer le lait par du bouillon (volaille ou autre)
-**Sauce Mornay:** Ajouter du fromage (Emmental ou Comté)
-**Variante Grecque:** Ajouter un jaune d'œuf, par ex. pour la [Moussaka](moussaka.md).
+- **Variante au bouillon:** Remplacer le lait par du bouillon (volaille ou autre)
+- **Sauce Mornay:** Ajouter du fromage (Emmental ou Comté)
+- **Variante Grecque:** Ajouter un jaune d'œuf, par ex. pour la [Moussaka](moussaka.md).

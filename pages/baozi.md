@@ -36,4 +36,6 @@ Bánh Bao (Viêtnam), Nikuman (Japon)
 5. Étaler chaque pâton en disque, amincir les bords. Fourrer de farcer, replier en Z.
 6. Cuire à la vapeur 12min
 
-**Brioches grillées**: Il est aussi possible de réaliser les brioches à la sauteuse, comme des Gyoza: les faire frire 2min, puis ajouter l'eau et couvrir.
+---
+
+**Variante grillée (Sheng Jian Bao)**: Réaliser les brioches à la sauteuse, comme des Gyoza: les faire frire 2min, puis ajouter l'eau et couvrir.
