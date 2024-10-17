@@ -1,6 +1,6 @@
 # Financiers
 
-- 150g blanc d'œuf (~4 blancs)
+- 150g blanc d'œuf (~4 ou 5 blancs)
 - 150g sucre glace
 - 120g beurre
 - 100g poudre d'amandes
