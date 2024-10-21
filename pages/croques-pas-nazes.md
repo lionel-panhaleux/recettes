@@ -13,7 +13,7 @@
 ---
 
 1. Tartiner les tranches de pain de crème, ajouter un trait de vinaigre balsamique et une pincée de Piment de Jamaïque. Ajouter le jambon et former les sandwiches.
-2. Faire chauffer le beurre à feu moyen dans une poêle
+2. Faire chauffer le beurre à feu moyen dans une poêle.
 3. Battre l'œuf, ajouter sel et poivre.
 4. Tremper les sandwiches dans l'œuf et les déposer dans la poêle. Faire dorer des deux côtés
 
