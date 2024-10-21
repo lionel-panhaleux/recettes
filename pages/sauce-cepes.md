@@ -13,5 +13,5 @@
 
 1. Macérer les cèpes 15min dans le xérès et le madère. Filtrer et réserver le liquide.
 2. Faire revenir l'aïl et les échalotes hachés dans le beurre 3min.
-3. Ajouter les cèpes (attendre 1min). Sur feu plus vif, ajouter la crème et le liquide réservé, et mijoter 5min.
+3. Ajouter les cèpes, saisir 1min. Sur feu plus vif, ajouter la crème et le liquide réservé, et mijoter 5min.
 4. Rectifier, parsemer de ciboulette.

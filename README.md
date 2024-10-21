@@ -23,6 +23,7 @@
 - [Ramen](pages/ramen.md)
 - [Rôti de Lotte](pages/roti-lotte.md)
 - [Taboulet](pages/taboulet.md)
+- [Tofu Frit](pages/tofu-frit.md)
 - [Yakisoba](pages/yakisoba.md)
 
 ## Desserts

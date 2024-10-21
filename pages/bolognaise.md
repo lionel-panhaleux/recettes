@@ -4,7 +4,7 @@
 
 - 200g Bœuf haché
 - 100g Poitrine de porc fumée
-- 1 Oignon
+- 1 Ognon
 - 1 Carotte
 - 30cl Purée de tomates
 - 3 feuilles de Laurier
