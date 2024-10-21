@@ -9,9 +9,11 @@
 - [Baozi](pages/baozi.md)
 - [Bolognaise](pages/bolognaise.md)
 - [Carbonara](pages/carbonara.md)
+- [Chili con Carne](pages/chili-con-carne.md)
 - [Croques Pas Nazes](pages/croques-pas-nazes.md)
 - [Curry Madras](pages/curry-madras.md)
 - [Curry Vert Thaï](pages/curry-vert-thai.md)
+- [Fajitas](pages/fajitas.md)
 - [Galettes Bretonnes](pages/galettes-bretonnes.md)
 - [Kamo Soba](pages/kamo-soba.md)
 - [Moussaka](pages/moussaka.md)
@@ -44,6 +46,7 @@
 
 - [Béchamel](pages/bechamel.md)
 - [Bouillon Tonkotsu](pages/bouillon-tonkotsu.md)
+- [Guacamole](pages/guacamole.md)
 - [Teriyaki](pages/teriyaki.md)
 - [Yakisoba](pages/yakisoba.md)
 - [Sauce Bresaola Poivre Vert](pages/sauce-bresaola-poivre-vert.md)
@@ -57,6 +60,7 @@
 - [Pâte à Pizza](pages/pate-a-pizza.md)
 - [Pâte sablée](pages/pate-sablee.md)
 - [Focaccia](pages/focaccia.md)
+- [Tortillas](pages/tortillas.md)
 
 ### Crèmes
 

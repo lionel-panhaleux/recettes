@@ -48,10 +48,9 @@ Découper en fines lamelles aux ciseaux.
 mais un bon bouillon de bœuf ou de poulet fera l'affaire. Si l'on utilise un bouillon fait exprès, on peut y mettre
 le dashi en poudre plutôt que dans le taro. On peut même réaliser le dashi directement dans le bouillon en y ajoutant
 des flocons de bonite séchée (katsuobushi) et éventuellement une feuille de kombu en fin de cuisson.
-Dans ce cas, bien sûr, omettre le dashi en poudre complètement.
 
 
 **Protéine:** Tout convient, mais s'il s'agit de viande un peu fragile à cuisson courte (tofu, blanc de poulet, crevette),
 on la farine avant de la saisir rapidement pour la griller et la rendre croustillante.
 Dans ce cas l'ajouter au bol en dernier, ou laisser les convives le faire en la servant dans une assiette à part.
-Les puristes pourront éventuellement réaliser du [Porc Chashu](porc-chashu.md).
+L'idéal reste d'utiliser du [Porc Chashu](porc-chashu.md).

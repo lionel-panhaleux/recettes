@@ -10,5 +10,5 @@
 ---
 
 1. Faire un beurre noisette avec le beurre
-2. Bien mélanger tous les ingrédients sans battre les blancs au préalable
-3. Cuire au four à 180° pendant 17min
+2. Bien mélanger tous les ingrédients sans battre les blancs
+3. Cuire **au four 17min à 180°**.
