@@ -10,6 +10,7 @@
 - [Bolognaise](pages/bolognaise.md)
 - [Carbonara](pages/carbonara.md)
 - [Chili con Carne](pages/chili-con-carne.md)
+- [Courgettes Jeon](pages/courgettes-jeon.md)
 - [Croques Pas Nazes](pages/croques-pas-nazes.md)
 - [Curry Madras](pages/curry-madras.md)
 - [Curry Vert Thaï](pages/curry-vert-thai.md)

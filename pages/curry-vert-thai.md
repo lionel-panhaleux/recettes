@@ -22,5 +22,5 @@
 ### Pour faire un curry
 
 Saisir la viande et les légumes, puis réserver.
-Combiner la pâte à **25cl de Lait de coco**, faire mijoter 5min, ajouter la viande et le légumes et laisser mijoter 15-30min selon les ingrédients.
+Combiner la pâte à **25cl de Lait de coco**, faire mijoter 5min, ajouter la viande et le légumes et laisser mijoter 10-30min selon les ingrédients.
 Les aubergines thaï sont le légume de référence.
