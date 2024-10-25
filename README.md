@@ -71,3 +71,4 @@
 ### Autre
 
 - [Riz vinaigré](pages/riz-vinaigre.md)
+- [Frites](pages/frites.md)
