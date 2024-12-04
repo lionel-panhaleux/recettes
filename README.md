@@ -29,8 +29,11 @@
 
 ## Desserts
 
+- [Cookies](pages/cookies.md)
 - [Financiers](pages/financiers.md)
+- [Gâteau Nantais](pages/gateau-nantais.md)
 - [Gaufres de Bruxelles](pages/gaufres-de-bruxelles.md)
+- [Mœlleux au Chocolat](pages/moelleux-au-chocolat.md)
 - [Tarte Abricots Lavande](pages/tarte-abricots-lavande.md)
 - [Tarte aux Fraises](page/tarte-aux-fraises.md)
 - [Tarte aux Pralines](pages/tarte-aux-pralines.md)
