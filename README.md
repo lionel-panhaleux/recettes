@@ -40,6 +40,15 @@
 - [Truffes Blanches](pages/truffes-blanches.md)
 - [Truffes au Whisky](pages/truffes-whisky.md)
 
+## Boissons
+
+- [Cocktails individuels](pages/cocktails.md)
+- [Mint Julep](pages/mint-julep.md)
+- [Mocktails](pages/mocktails.md)
+- [Russian Spring Punch](pages/russian-spring-punch.md)
+- [Soupe de Champagne](pages/soupe-de-champagne.md)
+- [Wassail](pages/wassail.md)
+
 ## Préparations
 
 ### Épices
