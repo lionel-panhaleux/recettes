@@ -9,7 +9,7 @@
 - 2cc Sucre
 - 2 Œufs
 - 75g Beurre
-- 75cl de mélange lait/eau tiède tant pout tant
+- 75cL de mélange lait/eau tiède tant pout tant
 - 1 pincée de sel
 
 ---

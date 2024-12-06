@@ -11,7 +11,7 @@
 
 ### Crème pâtissière
 
-- 50cl Lait
+- 50cL Lait
 - 100g Sucre
 - 60g Farine
 - 4 jaunes d'œuf
@@ -19,7 +19,7 @@
 
 ### Crème chantilly
 
-- 25cl Crème fraîche liquide entière (30% minimum)
+- 25cL Crème fraîche liquide entière (30% minimum)
 - 30g Sucre glace
 - ½ gousse de vanille
 

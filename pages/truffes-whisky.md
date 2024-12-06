@@ -6,7 +6,7 @@
 - 75g Beurre
 - 125g Sucre glace
 - 125g Crème fraîche
-- 10cl Whisky
+- 10cL Whisky
 
 ---
 

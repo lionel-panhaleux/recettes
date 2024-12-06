@@ -6,7 +6,7 @@
 - 100g Poitrine de porc fumée
 - 1 Ognon
 - 1 Carotte
-- 30cl Purée de tomates
+- 30cL Purée de tomates
 - 3 feuilles de Laurier
 - 1 CS Crème fraîche
 - (Fac) ½ Branche de céleri

@@ -1,8 +1,8 @@
 # Terrine de Foie Gras grillé
 
 - 1kg Foie Gras de canard cru déveiné
-- 15cl Porto rouge
-- 5cl Cognac
+- 15cL Porto rouge
+- 5cL Cognac
 - 12g Sel
 - 2g Poivre blanc
 - 4g Sucre

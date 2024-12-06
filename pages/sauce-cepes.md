@@ -1,12 +1,12 @@
 # Sauce aux Cèpes
 
 - 20g Cèpes séchés
-- 9cl Xérès (*ou Vermouth blanc dry*)
-- 9cl Madère (*ou Porto*)
+- 9cL Xérès (*ou Vermouth blanc dry*)
+- 9cL Madère (*ou Porto*)
 - 40g Beurre
 - 2 gousses d'Aïl
 - 2 Échalotes
-- 35cl Crème fraîche épaisse
+- 35cL Crème fraîche épaisse
 - 1 CS Ciboulettes
 
 ---

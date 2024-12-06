@@ -8,7 +8,7 @@ Les recettes sont en général indiquées en proportions, à multiplier ou divis
 - 1 Crème liquide
 - 1 Crème de cacao
 
-Shaker et verser sans filtrer dans une coupe, saupoudrer de muscade râpée.
+Shaker et verser sans filtrer dans une **coupe**, saupoudrer de **muscade râpée**.
 
 ### Bloody Mary
 
@@ -105,24 +105,24 @@ Shaker et filtrer dans un **old-fashioned** garni de glace pilée.
 
 ### Millionaire
 
-- 6Cl Rye whisky
-- 3Cl Sirop de grenadine
-- 2tr Curaçao bleu
-- 3gt Absinthe
+- 6cL Rye whisky
+- 3cL Sirop de grenadine
+- 2 traits de Curaçao bleu
+- 3 gouttes Absinthe
 - 1 Blanc d'œuf
 
 Shaker et filtrer dans une **coupe**.
 
 ### Mojito
 
-- 4cl Rhum
+- 4cL Rhum
 - 2cc Cassonade
 - ½ Citron vert tranché
 - 12 Feuilles de menthe
-- 1tr Bitter
-- QS Eau pétillante
+- 1 trait de Bitter
+- Quantité Suffisante d'Eau pétillante
 
-Écraser citron et sucre au fond d'un verre, mélanger la menthe froissée, remplir de glace pilée, verser les autres ingrédients, mélanger. 
+Écraser citron et sucre au pilon, mélanger la menthe froissée, remplir de glace pilée, verser les autres ingrédients, mélanger. 
 
 ### Old-Fashioned
 
@@ -163,4 +163,4 @@ Mélanger avec un **trait de bitter** pour chaque 2cl de cognac, verser dans un 
 - 6 Jus de cranberry
 - 1 Sirop de grenadine
 
-Shaker et verser sans filtrer dans un tumbler garni de glaçons.
+Shaker et verser sans filtrer dans un **tumbler** garni de glaçons.

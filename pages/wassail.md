@@ -2,7 +2,7 @@
 
 _Punch Anglais traditionnel pour Noël et l'Épiphanie, dont l'origine remonte au moyen-âge._
 
-- 25Cl Eau
+- 25cL Eau
 - 1cc Noix de muscade râpée
 - 2cc Gingembre en poudre
 - 6 Clous de Girofle
@@ -11,7 +11,7 @@ _Punch Anglais traditionnel pour Noël et l'Épiphanie, dont l'origine remonte a
 - 5cm Cannelle
 - 900g Sucre
 - 3L Xérès (Sherry, Jerez) ou Madère
-- 20Cl Cognac
+- 20cL Cognac
 - 12 Œufs
 - 8 Pommes
 

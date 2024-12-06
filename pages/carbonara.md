@@ -4,7 +4,7 @@
 
 - 250g Pâtes (Linguine, Spaghetti, Farfalle, …)
 - 150g Pancetta
-- 20cl Crème fraîche
+- 20cL Crème fraîche
 - 2 Œufs
 
 ---

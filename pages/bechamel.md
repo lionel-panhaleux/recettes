@@ -2,7 +2,7 @@
 
 - 2 CS Farine
 - 2 CS Beurre
-- 50cl Lait
+- 50cL Lait
 - 1 CS Crème fraîche
 - Sel, poivre, muscade
 

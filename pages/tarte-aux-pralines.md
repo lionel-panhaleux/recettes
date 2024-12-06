@@ -1,7 +1,7 @@
 # Tarte aux Pralines
 
 - 250g Pralines roses
-- 25cl Crème liquide
+- 25cL Crème liquide
 
 ### Pâte sablée amandine
 

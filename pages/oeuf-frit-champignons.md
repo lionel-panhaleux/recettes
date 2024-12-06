@@ -5,10 +5,10 @@
 ### Pour 4 personnes
 
 - 800g Champignons (au choix: paris, pleurottes, girolles, cèpes)
-- 5cl Vermouth blanc
+- 5cL Vermouth blanc
 - 3 Échalotes
-- 50cl Crème liquide
-- 20cl Bouillon de volaille
+- 50cL Crème liquide
+- 20cL Bouillon de volaille
 - 4 gousses Aïl noir
 - 5 Œufs
 - Farine, Panko

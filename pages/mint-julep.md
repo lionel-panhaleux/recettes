@@ -2,8 +2,8 @@
 
 _Cocktail historique de Virginie (sud des États-Unis), dont l'origine remonte à la fin du XVIIIe siècle._
 
-- 1 Bouteille de Bourbon (70cl)
-- 15CL Sirop de sucre
+- 1 Bouteille de Bourbon (70cL)
+- 15cL Sirop de sucre
 - 30 traits de bitter
 - 1 Botte de menthe
 

@@ -6,7 +6,7 @@
 - 4 tranches de Jambon Cru (Parme ou similaire)
 - 6 gousses d'Ail
 - ½ Ognon
-- 10cl Vermouth (ou vin blanc)
+- 10cL Vermouth (ou vin blanc)
 
 ---
 

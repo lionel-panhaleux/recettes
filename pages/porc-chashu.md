@@ -3,14 +3,14 @@
 [Source](https://www.itadakimasu.fr/recettes/porc-chashu-pour-ramen)
 
 - 600g de poitrinée de porc crue avec sa couenne
-- 15 cl de Sauce soja
-- 15 cl de Mirin
-- 15 cl de Sake
-- 60 g de Sucre en poudre
-- 30 cl d’ Eau
+- 15cL de Sauce soja
+- 15cL de Mirin
+- 15cL de Sake
+- 60g de Sucre en poudre
+- 30cL d’ Eau
 - 4 Ognons nouveaux (ou cébettes)
 - 2 gousses d’Ail
-- 2 cm Gingembre frais
+- 2cm Gingembre frais
 
 ---
 

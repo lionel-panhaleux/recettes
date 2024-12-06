@@ -2,9 +2,9 @@
 
 _Un punch inventé et popularisé par l'entreprise Cointreau. Il se réalise facilement en grande quantité._
 
-- 1 Bouteille de champagne ou de Crémant (75Cl)
+- 1 Bouteille de champagne ou de Crémant (75cL)
 - 3 citrons jaunes
-- 15Cl Cointreau (ou Grand Marnier)
+- 15cL Cointreau (ou Grand Marnier)
 - 125g (15Cl) Sucre en poudre
 
 ---

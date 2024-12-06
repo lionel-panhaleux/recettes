@@ -10,8 +10,8 @@
 - 2 gousses d'ail
 - 300g Bœuf haché
 - 100g Poitrine de porc fumée
-- 25cl Purée de tomates
-- 50cl Lait
+- 25cL Purée de tomates
+- 50cL Lait
 - Poivre, cannelle, paprika, origan
 
 ---

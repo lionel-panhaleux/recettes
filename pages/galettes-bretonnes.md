@@ -3,7 +3,7 @@
 [Source](http://www.recettes-bretonnes.fr/galette-bretonne/recette-galette-sarrasin.html)
 
 - 330g Farine de Sarrasin
-- 75cl Eau
+- 75cL Eau
 - 8g Sel
 - 1 Œuf
 

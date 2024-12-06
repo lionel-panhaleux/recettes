@@ -2,7 +2,7 @@
 [Source](https://www.kitchenaid.fr/recettes/pate-a-pizza-parfaite)
 
 - 300g Farine T45
-- 19cl Eau tiède
+- 19cL Eau tiède
 - 1 sachet de levure boulangère
 - 1cc sucre
 - 1cc sel

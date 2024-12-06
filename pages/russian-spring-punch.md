@@ -2,12 +2,12 @@
 
 _Un cocktail de fête inventé par Dick Bradsell dans les années 80._
 
-- 1 Bouteille (75Cl) de champagne
-- 18Cl Vodka
-- 9Cl Jus de citron
-- 3CL Crème de Cassis
-- 3CL Crème de Framboise (ou remplacer par de la crème de cassis)
-- 3CL Sirop de Sucre
+- 1 Bouteille (75cL) de champagne
+- 18cL Vodka
+- 9cL Jus de citron
+- 3cL Crème de Cassis
+- 3cL Crème de Framboise (ou remplacer par de la crème de cassis)
+- 3cL Sirop de Sucre
 - Fruits rouges surgelés (ou frais, mais les fruits surgelés sont parfaits)
 
 ---
