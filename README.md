@@ -42,7 +42,7 @@
 
 ## Boissons
 
-- [Cocktails individuels](pages/cocktails.md)
+- [Cocktails individuels](pages/cocktails-individuels.md)
 - [Mint Julep](pages/mint-julep.md)
 - [Mocktails](pages/mocktails.md)
 - [Russian Spring Punch](pages/russian-spring-punch.md)
