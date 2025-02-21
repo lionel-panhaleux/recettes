@@ -73,6 +73,8 @@
 - [Pâte Feuilletée](pages/pate-feuilletee.md)
 - [Pâte à Pizza](pages/pate-a-pizza.md)
 - [Pâte sablée](pages/pate-sablee.md)
+- [Pâtes aux œufs](pages/pates-aux-oeufs.md)
+- [Pâtes à l'eau](pages/pates-a-l-eau.md)
 - [Focaccia](pages/focaccia.md)
 - [Tortillas](pages/tortillas.md)
 
