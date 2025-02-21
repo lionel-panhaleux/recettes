@@ -8,6 +8,7 @@
 - [Aubergines au Miso](pages/aubergines-miso.md)
 - [Baozi](pages/baozi.md)
 - [Bolognaise](pages/bolognaise.md)
+- [Brandade de Morue](pages/brandade-de-morue.md)
 - [Carbonara](pages/carbonara.md)
 - [Chili con Carne](pages/chili-con-carne.md)
 - [Courgettes Jeon](pages/courgettes-jeon.md)

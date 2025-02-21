@@ -5,7 +5,7 @@
 - 300g Bœuf haché
 - 100g Poitrine de Porc fumée
 - 2 Ognons
-- 2 gousses d'Ail
+- 2 gousses d'Aïl
 - 20cl Purée de Tomates
 - 150g Haricots cuits (rouges ou noirs)
 - 2cc Parpika
