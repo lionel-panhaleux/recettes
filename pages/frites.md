@@ -8,7 +8,7 @@
 ---
 
 1. Peler les pommes de terre, les découper en frites.
-2. Cuire les frites dans l'eau bouillante, **8min à partir de la reprise de l'ébullition**.
+2. Cuire les frites dans l'eau bouillante non salée, **8min à partir de la reprise de l'ébullition**.
 3. Égoutter délicatement et déposer sur un linge, tamponer pour sécher. Attention: les frites sont fragiles.
 4. Plonger dans un premier bain d'huile à **140° environ 10min**, jusqu'à ce que la température remonte,
    en mélangeant de temps en temps très délicatment.
