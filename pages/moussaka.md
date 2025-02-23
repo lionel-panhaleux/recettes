@@ -1,5 +1,6 @@
 # Moussaka
 
+![image.png](../images/moussaka.jpeg)
 [Source](https://www.ricardocuisine.com/recettes/9352-moussaka-classique-la-meilleure)
 
 ### Pour 4 personnes

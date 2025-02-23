@@ -15,3 +15,6 @@
 ---
 
 **Amandine**: Remplacer 50g de Farine par de la poudre d'amandes
+
+**Fine**: Pour une pâte sablée plus fine, utiliser plus de beurre: 200g Farine pour 120g Beurre, 40g Sucre.
+Certaines recettes montent même à 140g de Beurre, mais attention la pâte devient fragile sans beurre de tourage.

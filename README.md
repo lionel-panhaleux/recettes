@@ -36,8 +36,10 @@
 - [Gaufres de Bruxelles](pages/gaufres-de-bruxelles.md)
 - [Mœlleux au Chocolat](pages/moelleux-au-chocolat.md)
 - [Tarte Abricots Lavande](pages/tarte-abricots-lavande.md)
+- [Tarte au Citron](page/tarte-au-citron.md)
 - [Tarte aux Fraises](page/tarte-aux-fraises.md)
 - [Tarte aux Pralines](pages/tarte-aux-pralines.md)
+- [Tarte Tatin](pages/tarte-tatin.md)
 - [Truffes Blanches](pages/truffes-blanches.md)
 - [Truffes au Whisky](pages/truffes-whisky.md)
 

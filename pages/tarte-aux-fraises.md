@@ -30,11 +30,10 @@
 
 ---
 
-1. Faire la pâte sablée, filmer et réserver au frais 30min
-2. Faire la [Crème pâtissière](creme-patissiere.md), filmer au contact et réserver au frais 15min
+1. Faire la pâte sablée, filmer et réserver au frais 30min.
+2. Faire la [Crème pâtissière](creme-patissiere.md), filmer au contact et réserver au frais 15min.
 3. Abaisser la pâte, foncer un moule à tarte beurré et fariné, faire cuire à blanc **17min à 180°**, laisser refroidir 15min et démouler.
-4. Monter la crème chantilly et la pocher
-5. Garnir de crème pâtissière, disposer les fraise coupées en deux élégamment
-6. Napper avec de la confiture préalablement chauffée, ou un sirop de sucre épais (3 pour un)
-7. Ajouter  des fleurons de crème chantilly entre les fraises pour finir
-   
+4. Monter la crème chantilly et la pocher.
+5. Garnir de crème pâtissière, disposer les fraise coupées en deux.
+6. Napper avec de la confiture préalablement chauffée, ou un sirop de sucre épais (3 pour un).
+7. Ajouter  des fleurons de crème chantilly entre les fraises pour finir.
