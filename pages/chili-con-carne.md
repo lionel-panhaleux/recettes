@@ -7,13 +7,13 @@
 - 300g Bœuf haché
 - 100g Poitrine de Porc fumée, détaillée en très petits lardons
 - 2 Ognons
-- 2 gousses d'Aïl
+- 2 gousses d'Ail
 - 2 Poivrons (rouges ou jaunes)
-- 20cl Purée de Tomates (ou 2 tomates fraîches épépinées et émincées)
+- 20cL Purée de Tomates (ou 2 tomates fraîches épépinées et émincées)
 - 150g Haricots cuits (rouges ou noirs)
-- 2cS Maïs cuit (facultatif, en boîte)
-- 2cc Parpika
-- 2cc Origan
+- 2 cS Maïs cuit (facultatif, en boîte)
+- 2 cc Parpika
+- 2 cc Origan
 - ½ de Piment (ou plus, au goût)
 
 ---

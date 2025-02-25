@@ -5,20 +5,20 @@
 ### Tortillas
 
 - 200g farine (blé ou 50/50 blé et maïs)
-- 15cl Eau chaude
-- 2CS Huile végétale
-- ½cc Levure chimique
+- 15cL Eau chaude
+- 2 CS Huile végétale
+- ½ cc Levure chimique
 
 ### Guacamole
 
 - 2 ou 3 Avocats
 - 1 Ognon
 - ½ Tomate (ou 3-4 tomates cerises)
-- 2CS de Coriandre frîache hachée
-- 1cc Cumin
-- 1cc Coriandre (graines)
-- ½cc Piment
-- 1cc Parpika fumé
+- 2 CS de Coriandre frîache hachée
+- 1 cc Cumin
+- 1 cc Coriandre (graines)
+- ½ cc Piment
+- 1 cc Parpika fumé
 
 ### Farce
 
@@ -26,11 +26,11 @@
 - 1 Poivron
 - 1 Ognon
 - 1 gousse d'Ail
-- 15cl de purée de tomates
-- 1cc Paprika fumé
-- 1cc Origan
-- ½cc Piment
-- 2CS de Coriandre fraîche hachée (*ou 1cc de coriandre en poudre*)
+- 15cL de purée de tomates
+- 1 cc Paprika fumé
+- 1 cc Origan
+- ½ cc Piment
+- 2 CS de Coriandre fraîche hachée (*ou 1cc de coriandre en poudre*)
 
 ---
 

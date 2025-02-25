@@ -16,5 +16,5 @@
 
 ---
 
-- **Avec fromage:** Mettre seulement la moitié de crème, mais ajouter du Pecorino (20g) et un peu d'eau de cuisson des pâtes (10 cl)
+- **Avec fromage:** Mettre seulement la moitié de crème, mais ajouter du Pecorino (20g) et un peu d'eau de cuisson des pâtes (10 cL)
 - **À l'italienne:** Les italiens la préparent avec fromage et peu de crème (diviser encore par deux), du Guanciale (plutôt que de la pancetta), plus gras et plus poivré. Dans ce cas, omettre le poivre (mais garder le tout-épice, ou le remplacer par un peu de muscade).

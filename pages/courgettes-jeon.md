@@ -5,16 +5,16 @@
 ### Pour 2 personnes
 
 - 2 grosses courgettes
-- 2cc sel
-- 2CS Farine de fécule de pomme de terre
-- 2CS Farine de riz
+- 2 cc sel
+- 2 CS Farine de fécule de pomme de terre
+- 2 CS Farine de riz
 
 ### Sauce (facultatif)
 
-- 2CS Sauce soja
-- 2CS Jus de citron
-- 2cc sucre
-- 1cc graines de sésame torréfiées
+- 2 CS Sauce soja
+- 2 CS Jus de citron
+- 2 cc sucre
+- 1 cc graines de sésame torréfiées
 
 ---
 

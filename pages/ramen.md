@@ -6,7 +6,7 @@
 - 150g Pâtes de blé
 - 1L Bouillon de qualité
 - 1 Œuf
-- 2 Cébettes (oignon nouveau) (*ou ciboule chinoise*)
+- 2 Cébettes (ognon nouveau) (*ou ciboule chinoise*)
 - 1 gousse d'Ail
 - 1cm Gingembre
 - Algues grillées assaisonnées (*ou ½ Feuille Nori pour les faire soi-même*)

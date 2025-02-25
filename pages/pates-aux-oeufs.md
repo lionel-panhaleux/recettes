@@ -8,7 +8,7 @@ _Tagliatelles, Lasagnes_
 - 2 Œufs
 - 2 à 3 jaunes d'œuf
 - Eau pour atteindre 185g (avec les œufs)
-- 1cc Sel
+- 1 cc Sel
 
 ---
 

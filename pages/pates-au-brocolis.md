@@ -7,10 +7,10 @@
 - 350g Orecchiette
 - 300g Porc haché
 - 1 Brocolis
-- 2CS Crème fraîche
+- 2 CS Crème fraîche
 - 1 gousse d'Ail
 - 1 brin de Romarin
-- 2cc Thym
+- 2 cc Thym
 
 ---
 

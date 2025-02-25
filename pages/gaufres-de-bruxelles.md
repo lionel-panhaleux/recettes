@@ -6,7 +6,7 @@
 
 - 500g Farine
 - 1 sachet Levure boulangère (ou 40g de levain)
-- 2cc Sucre
+- 2 cc Sucre
 - 2 Œufs
 - 75g Beurre
 - 75cL de mélange lait/eau tiède tant pout tant

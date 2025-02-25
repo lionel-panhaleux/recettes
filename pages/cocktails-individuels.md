@@ -116,7 +116,7 @@ Shaker et filtrer dans une **coupe**.
 ### Mojito
 
 - 4cL Rhum
-- 2cc Cassonade
+- 2 cc Cassonade
 - ½ Citron vert tranché
 - 12 Feuilles de menthe
 - 1 trait de Bitter
@@ -152,7 +152,7 @@ Mélanger et verser dans un **old-fashioned** avec un **unique gros glaçon**. G
 - 6 Cognac
 - 1 Sirop de sucre
 
-Mélanger avec un **trait de bitter** pour chaque 2cl de cognac, verser dans un **old-fashioned** mouillé à l'**absinthe**.
+Mélanger avec un **trait de bitter** pour chaque 2cL de cognac, verser dans un **old-fashioned** mouillé à l'**absinthe**.
 
 ### Sex on the Beach
 

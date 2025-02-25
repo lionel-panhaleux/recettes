@@ -5,11 +5,11 @@
 - 230g Beurre Demi-sel
 - 230g Sucre en poudre
 - 215g Sucre de canne brun
-- 2cc Extrait de vanille ou poudre de vanille
+- 2 cc Extrait de vanille ou poudre de vanille
 - 2 Œufs
 - 400g Farine
-- 1,5cc Levure chimique
-- 1cc Sel
+- 1,5 cc Levure chimique
+- 1 cc Sel
 - 400g Mélange chocolat / noix (noisettes, pécan, ...)
 
 ---

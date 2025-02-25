@@ -5,7 +5,7 @@
 - 100g Mascarpone
 - 75g Parmesan
 - 10 feuilles de Basilic
-- Un doigt de Muscade
+- Muscade
 - Fac.: 1 CS Noix (*ou amandes, noisettes, pistaches...*)
 
 ---

@@ -11,7 +11,7 @@
 
 ### Crème lavande
 
-- 2cc Lavande comestible
+- 2 cc Lavande comestible
 - 2 Jaunes d'œuf
 - 25cL Crème liquide
 - 60g Sucre

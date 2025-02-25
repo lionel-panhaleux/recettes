@@ -22,5 +22,5 @@
 ---
 
 Ajouter dans la préparation:
-- 2 gousees d'Aïl
+- 2 gousees d'Ail
 - 1 à 2 Piment

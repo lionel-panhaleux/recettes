@@ -9,18 +9,18 @@ Bánh Bao (Viêtnam), Nikuman (Japon)
 
 - 250g Farine (45 ou 55)
 - 5g Levure boulangère (ou 12g levure fraîche)
-- 1cc Sucre
-- 16cl Eau tiède
+- 1 cc Sucre
+- 16cL Eau tiède
 
 ### Farce
 
 - 250g Porc haché
 - Chou chinois ou poireau (même volume que le porc)
-- 3 ou 4 tiges de Ciboule chinoise (*remplacer par des cébettes / oignons nouveaux*)
+- 3 ou 4 tiges de Ciboule chinoise (*remplacer par des cébettes / ognons nouveaux*)
 - 1 Ognon
 - 1cm Gingembre
-- 1 Gousse d'aïl
-- 1cc Cassonade
+- 1 Gousse d'ail
+- 1 cc Cassonade
 - 1 CS Huilde de sésame
 - 1 CS Sauce Soja
 - 1 CS Sauce de poisson (*nước mắm / nam pla)*)

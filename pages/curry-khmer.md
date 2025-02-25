@@ -4,17 +4,17 @@ Pour 2 personnes
 
 ### Épices
 
-- 2cc Paprika
-- ½cc Curcuma
+- 2 cc Paprika
+- ½ cc Curcuma
 - 1 Piment de Cayenne
 - 1 Poivre rouge de Kampot
 
 ### Herbes aromatiques
 
 - 2 Échalotes
-- 2 gousses d'Aïl
-- Galanga (qté égale à l'aïl)
-- 1 branche Citronelle
+- 2 gousses d'Ail
+- Galanga (qté égale à l'ail)
+- 1 branche Citronnelle
 
 ### 
 
@@ -23,7 +23,7 @@ Pour 2 personnes
 - 25cL Crème de coco
 - 25cL Bouillon de poulet (ou juste de l'eau)
 - 4 feuilles de Citron Kaffir (Combava)
-- 2cc Sauce de poisson (*nước mắm / nam pla*)
+- 2 cc Sauce de poisson (*nước mắm / nam pla*)
 - ½ Concombre, détaillé en bâtonnets
 - 50g pousses de Haricots Mungo
 

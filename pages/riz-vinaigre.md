@@ -2,7 +2,7 @@
 
 - 250g Riz *Japonica*
 - 2 à 3CS Vinaigre de riz
-- 1cc Sucre
+- 1 cc Sucre
 - ¾ cc Sel
 
 ---

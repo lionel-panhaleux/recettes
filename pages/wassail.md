@@ -3,12 +3,12 @@
 _Punch Anglais traditionnel pour Noël et l'Épiphanie, dont l'origine remonte au moyen-âge._
 
 - 25cL Eau
-- 1cc Noix de muscade râpée
-- 2cc Gingembre en poudre
+- 1 cc Noix de muscade râpée
+- 2 cc Gingembre en poudre
 - 6 Clous de Girofle
-- ½cc Macis
+- ½ cc Macis
 - 6 baies de Tout-Épice (Poivre de Jamaïque)
-- 5cm Cannelle
+- 5 cm Cannelle
 - 900g Sucre
 - 3L Xérès (Sherry, Jerez) ou Madère
 - 20cL Cognac

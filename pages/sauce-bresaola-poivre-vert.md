@@ -2,9 +2,9 @@
 
 - 50g Bresaola
 - 40g Poivre vert frais
-- 1 gousse d'Aïl
+- 1 gousse d'Ail
 - 15g Beurre
-- 25cl Crème fraîche épaisse
+- 25cL Crème fraîche épaisse
 
 ---
 

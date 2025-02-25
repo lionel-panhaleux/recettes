@@ -5,7 +5,7 @@
 
 - 300g Farine (T45 ou mélange T45 et farine semoule pour moitié)
 - 160g (16cL) Eau
-- 1cc Sel
+- 1 cc Sel
 
 ---
 

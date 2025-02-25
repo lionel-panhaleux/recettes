@@ -26,7 +26,7 @@
 ### Garniture
 
 - 800g Fraises
-- (Fac) 1CS Confiture de fraises
+- (Fac) 1 CS Confiture de fraises
 
 ---
 

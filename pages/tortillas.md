@@ -2,8 +2,8 @@
 
 - 200g farine (blé ou 50/50 blé et maïs)
 - 15cL Eau chaude
-- 2CS Huile végétale
-- ½cc Levure chimique
+- 2 CS Huile végétale
+- ½ cc Levure chimique
 
 ---
 

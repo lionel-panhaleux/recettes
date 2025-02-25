@@ -3,11 +3,11 @@
 - 2 ou 3 avocats
 - 1 Ognon
 - ½ Tomate (ou 3-4 tomates cerises)
-- 2CS de Coriandre frîache hachée
-- 1cc Cumin
-- 1cc Coriandre (graines)
-- ½cc piment
-- ½cc Parpika fumé
+- 2 CS de Coriandre frîache hachée
+- 1 cc Cumin
+- 1 cc Coriandre (graines)
+- ½ cc piment
+- ½ cc Parpika fumé
 
 ---
 

@@ -7,7 +7,7 @@
 - 300g Farine
 - 3 Œufs
 - Eau pour atteindre 185g avec les œufs si nécessaire
-- 1cc Sel
+- 1 cc Sel
 
 ## Ragù
 

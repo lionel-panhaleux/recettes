@@ -2,7 +2,7 @@
 
 [Source](https://lacuisinedannie.20minutes.fr/recette-creme-patissiere-classique-154.html)
 
-- 50cl Lait
+- 50cL Lait
 - 100g Sucre
 - 60g Farine
 - 4 jaunes d'œuf

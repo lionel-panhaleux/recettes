@@ -3,7 +3,7 @@
 - 242g Beurre
 - 250g Farine
 - 75ml Eau
-- ¼cc Vinaigre cristal (*ou vinaigre de riz*)
+- ¼ cc Vinaigre cristal (*ou vinaigre de riz*)
 - 8g Fleur de sel (*ou 4g Sel de table*)
 
 ---

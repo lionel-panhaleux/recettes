@@ -4,9 +4,9 @@
 
 - 250g Farine (45 ou 55)
 - 5g levure boulangère (*ou 12g de levure fraîche*)
-- 1cc Sucre
+- 1 cc Sucre
 - 15cL Eau
-- 1cc Sel tiède
+- 1 cc Sel tiède
 - Thym, Romarin, Sariette ou Origan
 - Pulpe de tomates
 

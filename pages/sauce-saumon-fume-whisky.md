@@ -3,7 +3,7 @@
 - 40g Beurre
 - 125g Saumon fumé
 - 3 CS Crème fraîche
-- 1cc Whisky
+- 1 cc Whisky
 
 ---
 

@@ -1,10 +1,10 @@
 # Sauce Teriyaki
 
 - 2 CS sauce soja
-- 1cc cassonade
-- 1cc miel
+- 1 cc cassonade
+- 1 cc miel
 - ½ cc Maïzena
-- 1 gousse d'aïl, gingembre en même quantité
+- 1 gousse d'ail, gingembre en même quantité
 
 ---
 

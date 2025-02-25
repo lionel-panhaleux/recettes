@@ -18,7 +18,7 @@ Mélanger tous les ingrédients, éventuellement chauffer pour faire fondre la c
 ### Pour faire un plat de Yakisoba
 
 - Utiliser des pâtes de blé (pâtes pour ramen), 100g / personne
-- Légumes au choix (shiitake, cébettes ou poireau, chou chinois ou haricots munngo, carotte)
+- Légumes au choix (shiitake, cébettes ou poireau, chou chinois ou pousses de haricots mungo, carotte)
 - Viande au choix
 
 1. Cuire les pâtes
