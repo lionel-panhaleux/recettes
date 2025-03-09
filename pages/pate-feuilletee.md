@@ -17,4 +17,5 @@
 ---
 
 - **Pâte traditionelle**: La pâte feuilletée se faisait auparavant en enveloppant le beurre avec la détrempe (plutôt que l'inverse, ici, d'où le nom). C'est cependant beaucoup plus délicat à réaliser, pour un résultat identique. La recette inversée est utilisée en majorité aujourd'hui.
+- **Farines**: Idéalement, utiliser une farine pauvre en gluten pour le beurre manié (petit épeautre, châtaigne, sarrasin) et une farine de blé pour la détrempe (T80 pour un goût plus rustique, T45 ou T55 pour la finesse).
 - **Congélation**: La pâte se congèle très bien pour utiliser plus tard, il faut juste la mettre au réfrigérateur 24h pour la décongeler.
