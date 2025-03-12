@@ -16,6 +16,10 @@ Pour 2 personnes
 - Galanga (triple de l'ail)
 - 1 branche Citronnelle
 
+-> A TESTER: 
+Ajouter un tout petit peu de shrimp paste + palm sugar.
+Utiliser un piment thaï plutôt que le piment oiseau
+
 ### 
 
 - 150g Nouilles de blé fines (type nouilles à ramen)
