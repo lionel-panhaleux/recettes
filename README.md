@@ -18,9 +18,11 @@
 - [Curry Vert Thaï](pages/curry-vert-thai.md)
 - [Fajitas](pages/fajitas.md)
 - [Galettes Bretonnes](pages/galettes-bretonnes.md)
+- [Jaunes d'œufs marinés](pages/jaunes-doeufs-marines.md)
 - [Kamo Soba](pages/kamo-soba.md)
 - [Linguines aux Langoustines](pages/linguines-aux-langoustines.md)
 - [Moussaka](pages/moussaka.md)
+- [Pak Choï Namul](pages/pak-choi-namul.md)
 - [Pâtes au Brocolis](pages/pates-au-brocolis.md)
 - [Pâtes aux Patates](pages/pates-aux-patates.md)
 - [Porc Chashu](pages/porc-chashu.md)
@@ -28,6 +30,7 @@
 - [Rôti de Lotte](pages/roti-lotte.md)
 - [Taboulet](pages/taboulet.md)
 - [Tofu Frit](pages/tofu-frit.md)
+- [Yak Gochujang](pages/yak-gochujang.md)
 - [Yakisoba](pages/yakisoba.md)
 
 ## Desserts

@@ -17,7 +17,8 @@
 2. Cuire le morue au **court-bouillon 15min** avec l'ail, un bouquet de thym et quelques feuilles de laurier.
 3. Cuire les pommes de terre **à l'eau 20min**.
 4. Récupérer la morue et l'ail, détailler la morue en enlevant peau et arêtes.
-5. Travailler longuement et fortement les miettes de morue en ajoutant l'huile et le lait à mesure (fourchette, cuillère, mixer plongeant).
+5. Travailler longuement et fortement les miettes de morue en ajoutant l'huile et le lait à mesure
+   (fourchette, cuillère, mixer plongeant).
 6. Presser les pommes de terre en purée avec l'ail de la cuisson de la morue et de l'huile d'olive.
 7. Mélanger le tout, ajouter éventuellement un peu de persil (facultatif, 1cc). Rectifier.
 8. Passer **20min au four à 200°**, poser un peu de beurre sur le dessus pour griller.
