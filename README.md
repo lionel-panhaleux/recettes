@@ -19,6 +19,7 @@
 - [Fajitas](pages/fajitas.md)
 - [Galettes Bretonnes](pages/galettes-bretonnes.md)
 - [Kamo Soba](pages/kamo-soba.md)
+- [Linguines aux Langoustines](pages/linguines-aux-langoustines.md)
 - [Moussaka](pages/moussaka.md)
 - [Pâtes au Brocolis](pages/pates-au-brocolis.md)
 - [Pâtes aux Patates](pages/pates-aux-patates.md)
@@ -31,6 +32,7 @@
 
 ## Desserts
 
+- [Clafoutis](pages/clafoutis.md)
 - [Cookies](pages/cookies.md)
 - [Financiers](pages/financiers.md)
 - [Gâteau Nantais](pages/gateau-nantais.md)
