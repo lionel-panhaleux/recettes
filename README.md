@@ -95,3 +95,28 @@
 
 - [Riz vinaigré](pages/riz-vinaigre.md)
 - [Frites](pages/frites.md)
+
+---
+
+**Fond de cuisine: ingrédients de base et condiments**
+
+*Les listes d'ingrédients ne mentionnent pas nécessairement certains condiments et condiments*:
+
+- Sel
+- Poivre noir
+- Muscade
+- Baies de genièvre
+- Cardamome
+- Clous de girofle
+- Piment de Jamaïque (Tout-épice)
+- Huile neutre (arachide, turnesol)
+- Huile d'olive
+- Huile de sésame
+- Huile de coco
+- Ail
+- Gingembre
+- Sauce soja
+- Vinaigre
+- Vinaigre blanc (riz, cidre)
+- Vermouth blanc (Noilly Pratt)
+- Cognac

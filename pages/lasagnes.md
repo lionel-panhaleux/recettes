@@ -20,7 +20,6 @@
 - 400g / 40 cL Coulis de tomates
 - 3 Feuilles de Laurier
 - (Fac) Romarin
-- Sel, poivre
 
 ## Béchamel
 
@@ -28,7 +27,6 @@
 - &70g Beurre
 - 1L Lait
 - 1 CS Crème fraîche
-- Sel, poivre, muscade
 
 ## Lasagnes
 
