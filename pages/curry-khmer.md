@@ -20,7 +20,7 @@ Pour 2 personnes
 Ajouter un tout petit peu de shrimp paste + palm sugar.
 Utiliser un piment thaï plutôt que le piment oiseau
 
-### 
+### Ingrédients
 
 - 150g Nouilles de blé fines (type nouilles à ramen)
 - 1 Cuisse de poulet

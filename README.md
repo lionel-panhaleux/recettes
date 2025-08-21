@@ -7,6 +7,7 @@
 
 - [Aubergines au Miso](pages/aubergines-miso.md)
 - [Baozi](pages/baozi.md)
+- [Bœuf aux ognons](pages/boeuf-aux-ognons.md)
 - [Bolognaise](pages/bolognaise.md)
 - [Brandade de Morue](pages/brandade-de-morue.md)
 - [Carbonara](pages/carbonara.md)
@@ -24,6 +25,7 @@
 - [Moussaka](pages/moussaka.md)
 - [Pak Choï Namul](pages/pak-choi-namul.md)
 - [Pâtes au Brocolis](pages/pates-au-brocolis.md)
+- [Pâtes aux Palourdes](pages/pates-aux-palourdes.md)
 - [Pâtes aux Patates](pages/pates-aux-patates.md)
 - [Porc Chashu](pages/porc-chashu.md)
 - [Ramen](pages/ramen.md)
