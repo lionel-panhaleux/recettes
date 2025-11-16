@@ -2,6 +2,7 @@
 
 - [Œuf frit, velouté de champignons](pages/oeuf-frit-champignons.md)
 - [Terrine de Foie Gras grillé](pages/terrine-de-foie-gras-grille.md)
+- [Champignons Jalea](pages/champignons-jalea.md)
 
 ## Plats
 
@@ -12,6 +13,7 @@
 - [Brandade de Morue](pages/brandade-de-morue.md)
 - [Carbonara](pages/carbonara.md)
 - [Chili con Carne](pages/chili-con-carne.md)
+- [Colcannon](pages/colcannon.md)
 - [Courgettes Jeon](pages/courgettes-jeon.md)
 - [Croques Pas Nazes](pages/croques-pas-nazes.md)
 - [Curry Khmer](pages/curry-khmer.md)
@@ -19,14 +21,13 @@
 - [Curry Vert Thaï](pages/curry-vert-thai.md)
 - [Fajitas](pages/fajitas.md)
 - [Galettes Bretonnes](pages/galettes-bretonnes.md)
-- [Jaunes d'œufs marinés](pages/jaunes-doeufs-marines.md)
 - [Kamo Soba](pages/kamo-soba.md)
 - [Linguines aux Langoustines](pages/linguines-aux-langoustines.md)
 - [Moussaka](pages/moussaka.md)
-- [Pak Choï Namul](pages/pak-choi-namul.md)
 - [Pâtes au Brocolis](pages/pates-au-brocolis.md)
 - [Pâtes aux Palourdes](pages/pates-aux-palourdes.md)
 - [Pâtes aux Patates](pages/pates-aux-patates.md)
+- [Pâtes de riz aux cacahuètes](pages/pates-de-riz-aux-cacahuetes.md)
 - [Porc Chashu](pages/porc-chashu.md)
 - [Ramen](pages/ramen.md)
 - [Rôti de Lotte](pages/roti-lotte.md)
@@ -37,6 +38,7 @@
 
 ## Desserts
 
+- [Biscuits Romarin](pages/biscuits-romarin.md)
 - [Clafoutis](pages/clafoutis.md)
 - [Cookies](pages/cookies.md)
 - [Financiers](pages/financiers.md)
@@ -89,14 +91,16 @@
 - [Focaccia](pages/focaccia.md)
 - [Tortillas](pages/tortillas.md)
 
+### Accompagnements
+
+- [Jaunes d'œufs marinés](pages/jaunes-doeufs-marines.md)
+- [Pak Choï Namul](pages/pak-choi-namul.md)
+- [Riz vinaigré](pages/riz-vinaigre.md)
+- [Frites](pages/frites.md)
+
 ### Crèmes
 
 - [Crème pâtissière](pages/creme-patissiere.md)
-
-### Autre
-
-- [Riz vinaigré](pages/riz-vinaigre.md)
-- [Frites](pages/frites.md)
 
 ---
 
