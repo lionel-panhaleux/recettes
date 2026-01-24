@@ -22,6 +22,9 @@
 - [Fajitas](pages/fajitas.md)
 - [Galettes Bretonnes](pages/galettes-bretonnes.md)
 - [Kamo Soba](pages/kamo-soba.md)
+- [Kwati](pages/kwati.md)
+- [Lasagnes](pages/lasagnes.md)
+- [Lasagnes chinoise](pages/lasagnes-chinoises.md)
 - [Linguines aux Langoustines](pages/linguines-aux-langoustines.md)
 - [Moussaka](pages/moussaka.md)
 - [Pâtes au Brocolis](pages/pates-au-brocolis.md)
@@ -31,6 +34,7 @@
 - [Porc Chashu](pages/porc-chashu.md)
 - [Ramen](pages/ramen.md)
 - [Rôti de Lotte](pages/roti-lotte.md)
+- [Salade Semoule](pages/salade-semoule.md)
 - [Taboulet](pages/taboulet.md)
 - [Tofu Frit](pages/tofu-frit.md)
 - [Yak Gochujang](pages/yak-gochujang.md)
@@ -38,6 +42,7 @@
 
 ## Desserts
 
+- [Bananes Crème Brûlée](pages/bananes-creme-brulee.md)
 - [Biscuits Romarin](pages/biscuits-romarin.md)
 - [Clafoutis](pages/clafoutis.md)
 - [Cookies](pages/cookies.md)

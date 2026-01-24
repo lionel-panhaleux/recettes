@@ -2,6 +2,8 @@
 
 [Source](https://youtu.be/zXZq6crD6WI)
 
+**Pour 6 personnes**
+
 ## Pâtes
 
 - 300g Farine
@@ -43,3 +45,7 @@
    Finir par une couche de béchamel et de ragù saupoudrée de parmesan
 6. Cuire au four **45min à 170°** (ajuster plus ou moins selon la taille du plat).
 7. Couvrir d'un papier aluminium et laisser **reposer 5min** avant de servir.
+
+---
+
+**On gratiner de fromage (mozarella, cheddar) 5min sous la salamandre en fin de cuisson**
