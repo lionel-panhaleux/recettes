@@ -18,3 +18,7 @@
 3. Couper les tomates en petits dés, laisser de côté les pépins
 4. Hacher finement les herbes
 5. Tout mettre dans le saladier, saler généreusement, **laisser au frais au moins 1h**.
+
+---
+
+_On peut ajouter de l'aubergine, des ognons ou des courgettes cuites au four, ainsi que de la feta._
