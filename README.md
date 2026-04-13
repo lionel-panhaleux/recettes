@@ -47,6 +47,7 @@
 - [Clafoutis](pages/clafoutis.md)
 - [Cookies](pages/cookies.md)
 - [Financiers](pages/financiers.md)
+- [Gâteau au Chocolat (Therouane)](pages/gateau-chocolat-therouane.md)
 - [Gâteau Nantais](pages/gateau-nantais.md)
 - [Gaufres de Bruxelles](pages/gaufres-de-bruxelles.md)
 - [Mœlleux au Chocolat](pages/moelleux-au-chocolat.md)
