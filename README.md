@@ -25,6 +25,7 @@
 - [Kamo Soba](pages/kamo-soba.md)
 - [Kwati](pages/kwati.md)
 - [Lasagnes](pages/lasagnes.md)
+- [Liangban Mian](pages/liangban-mian.md)
 - [Linguines aux Langoustines](pages/linguines-aux-langoustines.md)
 - [Moussaka](pages/moussaka.md)
 - [Paella](pages/paella.md)
