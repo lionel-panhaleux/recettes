@@ -24,4 +24,4 @@
 2. Cuire les pâtes et refroidir dans un bain d'eau froide
 3. Servir avec le concombre en julienne, les cacahuètes pilées et les cébettes émincées
 
-4. _**Note:** Plutôt que d'acheter de la pâte de sésame toute faite, il est préférable de mixer ses propres graines de sésame pour l'occasion._ 
+_**Note:** Plutôt que d'acheter de la pâte de sésame toute faite, il est préférable de mixer ses propres graines de sésame pour l'occasion._ 
