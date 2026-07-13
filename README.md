@@ -23,6 +23,7 @@
 - [Fajitas](pages/fajitas.md)
 - [Galettes Bretonnes](pages/galettes-bretonnes.md)
 - [Kamo Soba](pages/kamo-soba.md)
+- [Kongguksu](pages/kongguksu.md)
 - [Kwati](pages/kwati.md)
 - [Lasagnes](pages/lasagnes.md)
 - [Liangban Mian](pages/liangban-mian.md)
