@@ -34,6 +34,7 @@
 - [Pâtes aux Palourdes](pages/pates-aux-palourdes.md)
 - [Pâtes aux Patates](pages/pates-aux-patates.md)
 - [Pâtes de riz aux cacahuètes](pages/pates-de-riz-aux-cacahuetes.md)
+- [Pommes de terre farcies](pages/pommes-de-terre-farcies.md)
 - [Porc Chashu](pages/porc-chashu.md)
 - [Ramen](pages/ramen.md)
 - [Rôti de Lotte](pages/roti-lotte.md)
