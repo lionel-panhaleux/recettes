@@ -48,6 +48,7 @@
 - [Biscuits Romarin](pages/biscuits-romarin.md)
 - [Clafoutis](pages/clafoutis.md)
 - [Cookies](pages/cookies.md)
+- [Crêpes](pages/crepes.md)
 - [Financiers](pages/financiers.md)
 - [Gâteau au Chocolat (Therouane)](pages/gateau-chocolat-therouane.md)
 - [Gâteau Nantais](pages/gateau-nantais.md)
