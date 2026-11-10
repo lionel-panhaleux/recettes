@@ -4,6 +4,7 @@
 - [Terrine de Foie Gras grillé](pages/terrine-de-foie-gras-grille.md)
 - [Champignons Jalea](pages/champignons-jalea.md)
 - [Tartelettes aux échalottes](pages/tartelettes_aux_echalottes.md)
+- [Tom Kha](pages/tom-kha.md)
 
 ## Plats
 
@@ -30,12 +31,14 @@
 - [Linguines aux Langoustines](pages/linguines-aux-langoustines.md)
 - [Moussaka](pages/moussaka.md)
 - [Paella](pages/paella.md)
+- [Pâtes à l'aïl](pages/pates-a-l-ail.md)
 - [Pâtes au Brocolis](pages/pates-au-brocolis.md)
 - [Pâtes aux Palourdes](pages/pates-aux-palourdes.md)
 - [Pâtes aux Patates](pages/pates-aux-patates.md)
 - [Pâtes de riz aux cacahuètes](pages/pates-de-riz-aux-cacahuetes.md)
 - [Pommes de terre farcies](pages/pommes-de-terre-farcies.md)
 - [Porc Chashu](pages/porc-chashu.md)
+- [Poulet Frit au Citron](pages/poulet-frit-au-citron.md)
 - [Ramen](pages/ramen.md)
 - [Rôti de Lotte](pages/roti-lotte.md)
 - [Taboulet](pages/taboulet.md)
