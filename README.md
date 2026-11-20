@@ -1,8 +1,9 @@
 ## Entrées
 
-- [Œuf frit, velouté de champignons](pages/oeuf-frit-champignons.md)
-- [Terrine de Foie Gras grillé](pages/terrine-de-foie-gras-grille.md)
 - [Champignons Jalea](pages/champignons-jalea.md)
+- [Œuf frit, velouté de champignons](pages/oeuf-frit-champignons.md)
+- [Soupe Pékinoise](pages/potage-pekinois.md)
+- [Terrine de Foie Gras grillé](pages/terrine-de-foie-gras-grille.md)
 - [Tartelettes aux échalottes](pages/tartelettes_aux_echalottes.md)
 - [Tom Kha](pages/tom-kha.md)
 
