@@ -1,20 +1,20 @@
-# Potage Pékinois
+# Soupe Pékinoise
 
 **Pour 2 personnes en plat, 4 personnes en entrée**
 
 - 200g Tofu soyeux
 - 1 poignée Champignons noirs séchés réhydratés
 - 1 Œuf
-- 2 CS Sauce soja claire
+- 3 CS Sauce soja claire
 - 1 CS Sauce soja foncée
-- 1 CS Vinaigre de riz noir
+- 2 CS Vinaigre de riz noir
 - 1 tige de ciboule hachée (thaï de préférence)
-- 2 cc Fécule de PdT
+- 1 CS Fécule de PdT
 
-**Pour dresser les bols:**
+**Pour dresser les bols (par personne - diviser par deux si petits bols):**
 
-- 2 cc Huile de sésame
-- 2 cc Poivre blanc moulu par personne
+- 1 cc Huile de sésame
+- 1 cc Poivre moulu
 - 1 CS Vinaigre de riz noir
 
 ---
