@@ -84,6 +84,7 @@
 
 - [Garam Masala (Curry indien)](pages/garam-masala-curry-indien.md)
 - [Ras el Hanout](pages/ras-el-hanout.md)
+- [Zaatar](pages/zaatar.md)
 
 ### Sauces
 
